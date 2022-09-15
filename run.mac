@@ -1,0 +1,6 @@
+/run/initialize
+/gun/momentumAmp 100 GeV
+/gun/position 0 0 -0.5 m
+/gun/particle proton
+/run/beamOn 100
+
